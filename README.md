@@ -37,6 +37,8 @@ The maze.pl file is where the data for the maze is stored, and the maze_solver.p
 
 Because this is brute force, it is very slow and this is just a proof of concept, not to be used for escaping actual mazes
 
+![Image of Maze](https://github.com/NickWayne/ASP-Maze-Solver/blob/master/maze.png?raw=true)
+
 Feel free to edit the python code or the ASP code to make it more effiecient or cooler
 
 contact me with any questions or additions made, hope you enjoy :)
