@@ -22,40 +22,23 @@ pygame for your version of python 2.7.X.
 DLV is included with the files
 
 # Controls
-left click - remove walls (can hold)
-right click - add walls (can hold)
-space - save the maze to the maze.pl text file
-L - load the maze from the maze.pl text file
-P - prints out the data in the format of the maze
+`Left Click` - remove walls (can hold)
+
+`Right Click` - add walls (can hold)
+
+`Space` - save the maze to the maze.pl text file
+
+`L` - load the maze from the maze.pl text file
+
+`P` - prints out the data in the format of the maze
 
 # Extra info
 The maze.pl file is where the data for the maze is stored, and the maze_solver.pl is where the logic is stored.
+
 Because this is brute force, it is very slow and this is just a proof of concept, not to be used for escaping actual mazes
 
-1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 
-1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 1 1 
-1 1 1 0 1 1 1 1 0 1 1 1 0 0 0 0 0 1 1 1 
-1 1 1 0 0 0 1 0 0 1 1 1 1 1 1 1 0 1 1 1 
-1 1 1 1 1 0 0 0 1 1 1 0 0 0 0 1 0 0 1 1 
-1 0 0 0 1 1 1 1 1 1 0 0 0 0 0 1 1 0 1 1 
-1 0 1 0 0 1 1 1 1 0 0 1 1 1 0 1 1 0 1 1 
-1 0 1 1 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 1 
-1 0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 1 
-1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
-1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
-1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 
-1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
-1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 0 1 
-1 1 0 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 1 
-1 0 1 0 0 0 0 1 0 0 1 0 1 0 1 1 1 1 1 1 
-1 0 0 1 1 1 0 0 0 1 1 0 1 0 1 1 1 1 1 1 
-1 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 
-1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
-
-This is how the maze is stored, walls are 1's and halls are 0's
-
 Feel free to edit the python code or the ASP code to make it more effiecient or cooler
+
 contact me with any questions or additions made, hope you enjoy :)
 
 BY - Nick Wayne
